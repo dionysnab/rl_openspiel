@@ -1,1 +1,4 @@
-rl_openspiel
+# Multi-Agent Reinforcement Learning with OpenSpiel
+
+## References
+
