@@ -1,5 +1,7 @@
 # Multi-Agent Reinforcement Learning with OpenSpiel
 
+## Link to report
+https://www.overleaf.com/3658775937bwccvtbkykpc
 ## References
 
 ### General
